@@ -1,5 +1,5 @@
 h1{
-    color:hsl(210, 13%, 50%);
+    color:hsl(0, 0%, 0%);
     text-align:center;
     font-size: 70px;
     }
@@ -22,8 +22,8 @@ ul, li{
 }
 
 #welcome:hover{
-    color: lightslategray;
-    background-color: lightslategray;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     transition: 1s;
 }
 
